@@ -82,6 +82,10 @@
           <option name="url" value="https://github.com/asmaajameel/Assignment_complet.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://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@github.com/fullstacklabs/cuboid-challenge-java.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
